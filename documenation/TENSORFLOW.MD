@@ -211,7 +211,3 @@ You can confidently mention:
 > Developed a browser-based object detection system using **TensorFlow.js** and **COCO-SSD** to detect real-world objects in real time through the webcam.
 > Implemented GPU acceleration via WebGL, dynamic bounding box rendering with Canvas API, and event-based alerts for person detection.
 > Optimized detection frequency for performance and integrated cooldown-based alarm logic.
-
----
-
-Would you like me to prepare a **shorter version (3–4 lines)** of this that you can directly paste into your resume bullet points (under “Projects”)?
